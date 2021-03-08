@@ -1,9 +1,1 @@
-# Vladimir
-## Artemev
-
-* Кто я
-	* программист
-	* фронтендер
-
-* Образование
-	* среднее
+https://vaartemev.github.io/rsschool-cv/cv
